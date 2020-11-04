@@ -1,4 +1,6 @@
-import { gsap } from "./node_modules/gsap/all.js";
+import gsap from "./node_modules/gsap/all.js";
+
+
 
 /*
     function [ landingAnimation ]
